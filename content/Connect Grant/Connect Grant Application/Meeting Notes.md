@@ -1,0 +1,4 @@
+- Make it a narrative, paragraph formatting
+- e.g. IN the first week I plan on researching Python, Ros, etc…
+- STeady flow of the idea
+- Paragraphs + narrative format.

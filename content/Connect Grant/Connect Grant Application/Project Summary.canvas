@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"6a345c34102ea633","type":"file","file":"Connect Grant/Connect Grant Application/Capstone Summary.md","x":280,"y":120,"width":640,"height":680},
+		{"id":"3224ac293efd4d73","type":"file","file":"Connect Grant/Connect Grant Application/Project Abstract Draft 01.md","x":-200,"y":-400,"width":400,"height":400},
+		{"id":"9616455bd4714edc","type":"file","file":"Connect Grant/Connect Grant Application/Project Abstract Draft 02.md","x":-200,"y":-840,"width":400,"height":400},
+		{"id":"3c299e4cf92815c7","type":"file","file":"Connect Grant/Connect Grant Application/Project Abstract Draft 03.md","x":-200,"y":-1280,"width":400,"height":400},
+		{"id":"3c0aa80bd823ebe0","type":"file","file":"Connect Grant/Connect Grant Application/GPT Recommendations on Draft 03.md","x":-640,"y":-1280,"width":400,"height":400},
+		{"id":"ea808083c38e7f0c","type":"file","file":"Connect Grant/Connect Grant Application/Project Abstract Draft 04.md","x":-200,"y":-1720,"width":400,"height":400},
+		{"id":"f83162c25630db6e","type":"file","file":"Connect Grant/Connect Grant Application/Project Abstract Draft 05.md","x":280,"y":-1600,"width":400,"height":400},
+		{"id":"1b10b81db9486bfa","type":"file","file":"Connect Grant/Connect Grant Application/Meeting Notes.md","x":800,"y":-1520,"width":400,"height":400},
+		{"id":"acef8e7a13881a70","type":"file","file":"Connect Grant/Connect Grant Application/Moving Beyond Draft 01.md","x":-440,"y":460,"width":400,"height":400},
+		{"id":"6d98bcb1b175a511","type":"file","file":"Connect Grant/Connect Grant Application/Personal Impact Draft 01.md","x":1120,"y":600,"width":400,"height":400},
+		{"id":"a41bf4d962ea90fc","type":"link","url":"https://docs.google.com/spreadsheets/d/19atNWiaQ7WkvpMCGK-80_gOnomir7DYFFYB9MHZeIXw/edit?usp=sharing","x":280,"y":-720,"width":1080,"height":640},
+		{"id":"2369f68a974c2708","type":"link","url":"https://docs.google.com/document/d/1Dc6LGWOWhHxhX7M_Qwhj2qBwt0qA_RIuUIUA-NIELUo/edit?usp=sharing","x":2020,"y":-626,"width":654,"height":453},
+		{"id":"b425f8cd2881c98d","type":"file","file":"Connect Grant/Connect Grant Application/Budget Narrative.md","x":1480,"y":-560,"width":400,"height":260},
+		{"id":"437ccc6cdabe9fc3","type":"file","file":"Connect Grant/Connect Grant Application/Moving Beyond.md","x":-520,"y":160,"width":400,"height":200},
+		{"id":"1b597c175c6e6bd9","type":"file","file":"Connect Grant/Connect Grant Application/Personal Impact.md","x":1080,"y":60,"width":400,"height":400},
+		{"id":"ca42072b732b7bf7","type":"text","text":"# Further Drafts in Google Docs","x":300,"y":-1840,"width":360,"height":120}
+	],
+	"edges":[
+		{"id":"4a55c4f39521fd09","fromNode":"6a345c34102ea633","fromSide":"left","toNode":"3224ac293efd4d73","toSide":"bottom"},
+		{"id":"f7c6f749cfa8bc6c","fromNode":"b425f8cd2881c98d","fromSide":"right","toNode":"2369f68a974c2708","toSide":"left"},
+		{"id":"f5345a5a5996f398","fromNode":"a41bf4d962ea90fc","fromSide":"right","toNode":"b425f8cd2881c98d","toSide":"left"},
+		{"id":"ec0a4be5a9f0abb5","fromNode":"6a345c34102ea633","fromSide":"top","toNode":"a41bf4d962ea90fc","toSide":"bottom"}
+	]
+}

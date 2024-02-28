@@ -1,0 +1,1 @@
+https://www.ewhiteowls.com/2021/07/heres-how-you-can-also-design-3dprint-slew-bearing/
