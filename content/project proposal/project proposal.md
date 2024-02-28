@@ -3,9 +3,6 @@
 %% Begin Waypoint %%
 - **attachments**
 	- [[IMG_0573.jpg]]
-- [[Block Diagram]]
-- [[Cost Estimate]]
-- [[Description]]
 - [[Draft 01 - Capstone Project Proposal.pdf]]
 - **Drafts**
 	- **attachments**
