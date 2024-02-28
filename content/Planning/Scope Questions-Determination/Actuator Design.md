@@ -1,5 +1,0 @@
-### Design
-
-#### Decisions:
-- premade?
-- custom?

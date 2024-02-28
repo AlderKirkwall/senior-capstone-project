@@ -1,4 +1,0 @@
-- [Planetary Gear : 8 Steps](https://www.instructables.com/Planetary-Gear/)
-- [Geometry / Planetary Gears](https://drivetrainhub.com/notebooks/gears/geometry/Chapter%204%20-%20Planetary%20Gears.html)
-- [onshape cycloidal drive generator](https://forum.onshape.com/discussion/7567/cycloidal-gear-generator)
-- https://drivetrainhub.com/notebooks/
